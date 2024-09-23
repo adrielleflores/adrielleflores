@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**adrielleflores/adrielleflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ♓️ nome: adrielle cristine flores
+- 🔭 estou trabalhando em: ajudante de caixa
+- 🌱 atualmente etou apredendo:
+- 👯 estou procurando ajuda com: contas de matematica e diversas materias
+- 🤔 idade: 16 anos
+- 💬 como entrar em contado comigo: via email
+- 📫 aonde mora: santa Lúcia pr 🇧🇷
+- 😄 pronome: Adry ou adre
+- ⚡ curiosidade: namorando e procuro novas amizades
+ 
+![corinthias](https://media.tenor.com/It_uScpL9TQAAAAM/yurialberto.gif)
